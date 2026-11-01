@@ -1,0 +1,12 @@
+h2 {
+    color: #6e3926;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+    h2 {
+        font-size: 65px
+    }
+}
